@@ -96,4 +96,4 @@ conda create -n credit_risk python=3.9 -y
 conda activate credit_risk
 python train_model.py
 streamlit run app.py
-LIVE DEMO : https://drive.google.com/file/d/1bzLH5QmHyKYWf-k66gr1KwfZRn08wGQf/view?usp=sharing
+LIVE DEMO : https://drive.google.com/drive/folders/1kp5nd73IWqvP_CKqUKwNajThj0tTmyLX?usp=sharing
